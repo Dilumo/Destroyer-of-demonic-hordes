@@ -5,34 +5,47 @@
 # Introdução
 
   Esse jogo pertence a uma seria de jogos de uma página, que tem como objetivo render mais conhecimento basico a mim e facilitar a entrada/volta de pessoas com menos tempo ou interesse para jogos mais complexos.
-
+<!-- /MarkdownTOC -->
 # Indice
 
-  1. [Documentação](#Documentação)
-      1. [Highconcept](#Highconcept)
-      2. [Enredo](#Enredo)
-      3. [Gameplay](#Gamepaly)
-          1. [Regras](#Regras) 
-          2. [Elementos](#Elementos) 
+  - [Documentação](#documentação)
+      - [Highconcept](#highconcept)
+      - [Enredo](#enredo)
+      - [Gameplay](#gameplay)
+          - [Regras](#Regras) 
+          - [Elementos](#elementos) 
 
+
+<!-- /MarkdownTOC -->
+
+---
+
+<a name="documentação"></a>
 # Documentação
 
-# <h2> Highconcept </h2>
-  Um jogo de tabuleiro onde você tem que derotar uma orda de dêmonios para salvar a cidade de Garnelia.                              
-# <h2> Enredo </h2>
-A grande cidade Garnelia em seus últimos suspiros de desespero, pede a nosso herói mágico para se livrar da grande horda de demônios que agora marcha em direção à cidade.
-Cabe a você destruir esse perigo, mas lembre-se, você não sabe como lançar feitiços a distância, então infelizmente você terá que se teletransportar para o meio da horda, mas não se preocupe, este feitiço é fraco, não dura Mais de alguns segundos, então Você volta para o ponto de lançamento, apenas evite teletransportar em lugares vazios, isso pode fazer você ficar lá um pouco mais, e como você sabe, os demônios não gostão muito de você. Vai um mago, No pior caso você morre! Boa sorte!
+<a name="highconcept"></a>
+##  Highconcept
+  Um jogo de tabuleiro onde você tem que derotar uma horda de dêmonios para salvar a cidade de Garnelia.       
+<a name="enredo"></a>                      
+## Enredo
+A grande cidade Garnelia em seus últimos suspiros de desespero, pede a você, nosso herói mágico para se livrar da grande horda de demônios que agora marcha em direção à cidade.
+Então cabe a você acabar com esse perigo, mas lembre-se, você não sabe como lançar feitiços a distância, então infelizmente você terá que se teletransportar para o meio da horda, mas não se preocupe, este feitiço é fraco, não dura mais que alguns segundos e então você voltara para o ponto de lançamento, apenas lembre de evitar de se teletransportar em lugares vazios, isso pode fazer você ficar lá um pouco mais de tempo, e como você sabe, os demônios não gostão muito de você. Vai mago! No pior dos casos você morre!
 
-# <h2> Gameplay </h2>
+<a name="gameplay"></a>
+## Gameplay 
 Com o auxilio de *dois dados* o jogador rodara o primeiro dado para **linha** e o sengundo para **coluna**. Assim causando um ataque ao quadrado corespondente a essa cordenada.
-  # <h4> Regras: </h4>
+    
+  <a name="regras"></a>
+  #### Regras:
 
   - Sempre o primeiro dado jogado sera linha.
-  - Quando destruir um demonico o quadrado em que ele estava fica **vazio**.
+  - Quando destruir um dêmonico o quadrado em que ele estava fica **vazio**.
   - Quadrados vazios não tem mais efeitos especiais.
   - Você leva um de dano quando ataca um quadrado vazio na horizontal ou vertical de outro dêmonio.
   - Se sua vida chegar a zero você perde.
-# <h4> Elementos: </h4>
+  
+<a name="elementos"></a>
+# Elementos:
  - ![Minion Demon](https://github.com/Dilumo/Destroyer-of-demonic-hordes/blob/master/Documents/Assets/Minon-Demon.png?raw=true "Minion Demon") **Minion Demon:** Um golpe o mata, receba uma moeda.
  - ![Warrior Demon](https://github.com//Dilumo/Destroyer-of-demonic-hordes/blob/master/Documents/Assets/Warrior-Demon.png?raw=true "Warrior Demon") **Warrior Demon:** Dois golpes o mata, receba duas moedas.
   - ![Witch Demon](https://github.com//Dilumo/Destroyer-of-demonic-hordes/blob/master/Documents/Assets/Witch-Demon.png?raw=true "Witch Demon") **Witch Demon:** Um golpe o mata, revive outro dêmonio, receba três moedas.
@@ -40,6 +53,8 @@ Com o auxilio de *dois dados* o jogador rodara o primeiro dado para **linha** e 
   - ![Column](https://github.com//Dilumo/Destroyer-of-demonic-hordes/blob/master/Documents/Assets/Column.png?raw=true "Column") **Column:** Jogue um dado coluna para sofrer o efeito.
   - ![Line](https://github.com//Dilumo/Destroyer-of-demonic-hordes/blob/master/Documents/Assets/Line.png?raw=true "Line") **Line:** Jogue um dado linha para sofrer o efeito.
   - ![Direction](https://github.com//Dilumo/Destroyer-of-demonic-hordes/blob/master/Documents/Assets/Direction.png?raw=true "Direction") **Direction:** Aponta a direção do quadrado que rebera o efeio.
+  - ![Horizontal Power](https://github.com//Dilumo/Destroyer-of-demonic-hordes/blob/master/Documents/Assets/Horizontal-Power.png?raw=true "Horizontal Power") **Horizontal Power:** Inicia o jogo sem moedas.
+  - ![Vertical Power](https://github.com//Dilumo/Destroyer-of-demonic-hordes/blob/master/Documents/Assets/Vertical-Power.png?raw=true "Vertical Power") **Vertical Power:** Inicia com vinte pontos de vida.
   - ![Coin](https://github.com//Dilumo/Destroyer-of-demonic-hordes/blob/master/Documents/Assets/Coin.png?raw=true "Coin") **Coin:** Inicia o jogo sem moedas.
   - ![Hit Points](https://github.com//Dilumo/Destroyer-of-demonic-hordes/blob/master/Documents/Assets/Hit-Points.png?raw=true "Hit Points") **Hit Points:** Inicia com vinte pontos de vida.
 
