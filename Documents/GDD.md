@@ -43,7 +43,7 @@ Então cabe a você acabar com esse perigo, mas lembre-se, você não sabe como 
 Com o auxilio de *dois dados* o jogador rodara o primeiro dado para **linha** e o segundo para **coluna**. Assim causando um ataque ao quadrado correspondente a essa coordenada. Acumulando moedas o jogador pode comprar poderes, que serão jogados quando ele atacar se ele assim desejar.
 
 <a name="regras"></a>
-## <h4> Regras </h4>:
+## <h4> Regras: </h4>
 - Sempre o primeiro dado jogado sera linha.
 - Quando destruir um demônico o quadrado em que ele estava fica **vazio**.
 - Quadrados vazios não tem mais efeitos especiais.
