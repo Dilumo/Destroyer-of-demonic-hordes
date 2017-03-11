@@ -27,7 +27,6 @@
 <!-- /MarkdownTOC -->
 
 ---
-
 <a name="documentação"></a>
 # Documentação
 
@@ -42,9 +41,10 @@ Então cabe a você acabar com esse perigo, mas lembre-se, você não sabe como 
 <a name="gameplay"></a>
 ## Gameplay 
 Com o auxilio de *dois dados* o jogador rodara o primeiro dado para **linha** e o segundo para **coluna**. Assim causando um ataque ao quadrado correspondente a essa coordenada. Acumulando moedas o jogador pode comprar poderes, que serão jogados quando ele atacar se ele assim desejar.
-    
+
+---  
   <a name="regras"></a>
-  ### Regras:
+  ## Regras:
   - Sempre o primeiro dado jogado sera linha.
   - Quando destruir um demônico o quadrado em que ele estava fica **vazio**.
   - Quadrados vazios não tem mais efeitos especiais.
@@ -54,36 +54,40 @@ Com o auxilio de *dois dados* o jogador rodara o primeiro dado para **linha** e 
   
 <a name="elementos"></a>
 ## Elementos
-<a name="inimigos"></a>
-### Inimigos:
- - ![Minion Demon](https://github.com/Dilumo/Destroyer-of-demonic-hordes/blob/master/Documents/Assets/Minon-Demon.png?raw=true "Minion Demon") <br> 
- **Minion Demon:** Um golpe o mata, receba uma moeda.
- - ![Warrior Demon](https://github.com//Dilumo/Destroyer-of-demonic-hordes/blob/master/Documents/Assets/Warrior-Demon.png?raw=true "Warrior Demon") <br> 
- **Warrior Demon:** Dois golpes o mata, receba duas moedas.
+---
+  <a name="inimigos"></a>
+  ## Inimigos:
+  - ![Minion Demon](https://github.com/Dilumo/Destroyer-of-demonic-hordes/blob/master/Documents/Assets/Minon-Demon.png?raw=true "Minion Demon") <br> 
+  **Minion Demon:** Um golpe o mata, receba uma moeda.
+  - ![Warrior Demon](https://github.com//Dilumo/Destroyer-of-demonic-hordes/blob/master/Documents/Assets/Warrior-Demon.png?raw=true "Warrior Demon") <br> 
+  **Warrior Demon:** Dois golpes o mata, receba duas moedas.
   - ![Witch Demon](https://github.com//Dilumo/Destroyer-of-demonic-hordes/blob/master/Documents/Assets/Witch-Demon.png?raw=true "Witch Demon") <br> 
-  **Witch Demon:** Um golpe o mata, revive outro demônio, receba três moedas.
+    **Witch Demon:** Um golpe o mata, revive outro demônio, receba três moedas.
   - ![Explosive Demon](https://github.com//Dilumo/Destroyer-of-demonic-hordes/blob/master/Documents/Assets/Explosive-Demon.png?raw=true "Explosive Demon") <br> 
-  **Explosive Demon:** Um golpe o mata, destrói outro demônio, receba um moeda.
-<a name="indicadores"></a>
-### Indicadores:
+    **Explosive Demon:** Um golpe o mata, destrói outro demônio, receba um moeda.
+  ---
+  <a name="indicadores"></a>
+  ## Indicadores:
   - ![Column](https://github.com//Dilumo/Destroyer-of-demonic-hordes/blob/master/Documents/Assets/Column.png?raw=true "Column") <br> 
-  **Column:** Jogue um dado coluna para sofrer o efeito.
+    **Column:** Jogue um dado coluna para sofrer o efeito.
   - ![Line](https://github.com//Dilumo/Destroyer-of-demonic-hordes/blob/master/Documents/Assets/Line.png?raw=true "Line") <br> 
-  **Line:** Jogue um dado linha para sofrer o efeito.
+    **Line:** Jogue um dado linha para sofrer o efeito.
   - ![Direction](https://github.com//Dilumo/Destroyer-of-demonic-hordes/blob/master/Documents/Assets/Direction.png?raw=true "Direction") 
-  <br> **Direction:** Aponta a direção do quadrado que recebera o efeito.
-<a name="habilidades"></a>
-### Habilidades:
+    <br> **Direction:** Aponta a direção do quadrado que recebera o efeito.
+  ---
+  <a name="habilidades"></a>
+  ## Habilidades:
   - ![Horizontal Power](https://github.com//Dilumo/Destroyer-of-demonic-hordes/blob/master/Documents/Assets/Horizontal-Power.png?raw=true "Horizontal Power")<br> 
-   **Horizontal Power:** Ao atacar jogue um dado, caso saia maior que quatro acerte um ataque em todos dessa linha, recebendo um de dano.
+    **Horizontal Power:** Ao atacar jogue um dado, caso saia maior que quatro acerte um ataque em todos dessa linha, recebendo um de dano.
   - ![Vertical Power](https://github.com//Dilumo/Destroyer-of-demonic-hordes/blob/master/Documents/Assets/Vertical-Power.png?raw=true "Vertical Power")<br> 
-  **Vertical Power:** Ao atacar jogue um dado, caso saia maior que dois acerte um ataque em todos dessa coluna, recebendo dois de dano.
-<a name="recursos"></a>
-### Recursos:
+    **Vertical Power:** Ao atacar jogue um dado, caso saia maior que dois acerte um ataque em todos dessa coluna, recebendo dois de dano.
+  ---
+  <a name="recursos"></a>
+  ## Recursos:
   - ![Coin](https://github.com//Dilumo/Destroyer-of-demonic-hordes/blob/master/Documents/Assets/Coin.png?raw=true "Coin") <br> 
-  **Coin:** Inicia o jogo sem moedas.
+    **Coin:** Inicia o jogo sem moedas.
   - ![Hit Points](https://github.com//Dilumo/Destroyer-of-demonic-hordes/blob/master/Documents/Assets/Hit-Points.png?raw=true "Hit Points") <br> 
-  **Hit Points:** Inicia com vinte pontos de vida.
+    **Hit Points:** Inicia com vinte pontos de vida.
 
 <a name="interface"></a>
 # Interface
