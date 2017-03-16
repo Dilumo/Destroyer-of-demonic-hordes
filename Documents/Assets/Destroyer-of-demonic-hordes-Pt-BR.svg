@@ -31,9 +31,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="639.51247"
-     inkscape:cy="637.20485"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="-169.56633"
+     inkscape:cy="674.23382"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
@@ -5487,7 +5487,7 @@
     </g>
     <g
        id="g5599"
-       transform="matrix(0.95085205,0,0,0.95085205,11.146833,5.0120271)">
+       transform="matrix(0.95085205,0,0,0.95085205,15.097941,5.0120271)">
       <rect
          y="176.62831"
          x="173.61627"
@@ -5602,7 +5602,7 @@
            id="tspan7667-9-0"
            x="177.65984"
            y="191.59729"
-           style="font-size:1.92460287px">Val. 20 coins</tspan></text>
+           style="font-size:1.92460287px">Val. 20 moedas</tspan></text>
     </g>
     <text
        sodipodi:linespacing="125%"
@@ -5623,7 +5623,7 @@
          id="tspan5169">um ataque em todos dessa linha, recebendo um de dano.</tspan></text>
     <g
        id="g5622"
-       transform="matrix(0.95085205,0,0,0.95085205,11.146833,3.3186939)">
+       transform="matrix(0.95085205,0,0,0.95085205,15.097941,3.3186939)">
       <rect
          y="195.13075"
          x="173.73285"
@@ -5694,7 +5694,7 @@
            id="tspan7667-9-0-8"
            x="177.77641"
            y="210.09973"
-           style="font-size:1.92460287px">Val. 15 coins</tspan></text>
+           style="font-size:1.92460287px">Val. 15 moedas</tspan></text>
       <g
          transform="matrix(0,0.81073177,-0.81073177,0,282.36122,192.76736)"
          id="g5192-2">
@@ -5761,21 +5761,21 @@
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffe6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.41653538;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect5650"
-       width="21.353052"
+       width="48.446384"
        height="6.7850823"
-       x="171.45439"
-       y="169.56371" />
+       x="157.90771"
+       y="166.45926" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:8.46666622px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="171.05528"
-       y="172.66281"
+       x="157.79083"
+       y="172.5217"
        id="text5646"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5648"
-         x="171.05528"
-         y="172.66281">Skills</tspan></text>
+         x="157.79083"
+         y="172.5217">Habilidades</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.68504608;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 156.0171,208.57018 51.88512,0 0,-0.19825"
@@ -5784,21 +5784,21 @@
     <rect
        style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffe6d5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.41653538;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
        id="rect5650-9"
-       width="22.34083"
+       width="33.770828"
        height="6.7850823"
-       x="171.45439"
-       y="204.67885" />
+       x="165.1044"
+       y="204.81996" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:8.46666622px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="170.97501"
-       y="211.16458"
+       x="166.03612"
+       y="210.88235"
        id="text5646-2"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5648-6"
-         x="170.97501"
-         y="211.16458">Story</tspan></text>
+         x="166.03612"
+         y="210.88235">Historia</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot5676"
@@ -5941,27 +5941,27 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:8.05054665px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="158.27057"
+       x="157.00052"
        y="179.3367"
        id="text5733"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5735"
-         x="158.27057"
+         x="157.00052"
          y="179.3367"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.01895523px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Bought</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.01895523px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Comprado</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:8.05054665px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="158.38707"
+       x="157.00052"
        y="195.04918"
        id="text5733-5"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan5735-6"
-         x="158.38707"
+         x="157.00052"
          y="195.04918"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.01895523px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Bought</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.01895523px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Comprado</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot5138"
